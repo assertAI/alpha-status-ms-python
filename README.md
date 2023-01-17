@@ -1,3 +1,3 @@
 # alpha-status-ms-python
 
-JETSON DEVICE
+JETSON DEVICE STATUS
